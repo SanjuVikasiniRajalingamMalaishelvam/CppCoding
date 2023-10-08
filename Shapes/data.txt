@@ -1,0 +1,7 @@
+square1:10,10,100,40
+rectangle1:10,15,150,50
+rectangle2:15,5,75,40
+rectangle3:10,5,50,30
+Cube[square1]:0,0,600,120
+Cuboid[rectangle1+rectangle2+rectangle3]:0,0,550,120
+

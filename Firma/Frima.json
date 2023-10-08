@@ -1,0 +1,55 @@
+{
+    "Projects" : [
+        {
+            "assignees" : [
+
+            ],
+            "endDate" : "5:1:2023",
+            "name" : "MadamVikasini",
+            "numberOfEmployees" : 5,
+            "startDate" : "1:1:2023"
+        }
+    ],
+    "employees" : [
+
+    ]
+}              },
+                {
+                    "EmployeeID" : 3,
+                    "allotedHours" : 40
+                }
+            ],
+            "endDate" : "5:1:2023",
+            "name" : "MadamVikasini",
+            "numberOfEmployees" : 5,
+            "startDate" : "1:1:2023"
+        }
+    ],
+    "employees" : [
+        {
+            "name" : "VIKASINI",
+            "employeeID" : 1,
+            "email" : "sanjuvikasini@gmail.com",
+            "dob" : "11:10:1999",
+            "salary" : 750000,
+            "hours" : 40,
+            "teamMembersCount" : 2
+        },
+        {
+            "name" : "SANJU",
+            "employeeID" : 2,
+            "email" : "sanjuvikasini@gmail.com",
+            "dob" : "11:10:1999",
+            "salary" : 750000,
+            "hours" : 40
+        },
+        {
+            "name" : "SANJUVIKASINI",
+            "employeeID" : 3,
+            "email" : "sanjuvikasini@gmail.com",
+            "dob" : "11:10:1999",
+            "salary" : 750000,
+            "hours" : 40
+        }
+    ]
+}
